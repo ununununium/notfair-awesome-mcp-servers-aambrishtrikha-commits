@@ -68,6 +68,7 @@
 - [Clay](https://api.clay.com/v3/mcp) — Data enrichment, lead scoring, outbound automation.
 - [Klaviyo](https://mcp.klaviyo.com/mcp) — Email marketing, segmentation, campaign management.
 - [Indeed](https://mcp.indeed.com/claude/mcp) — Job listings, candidate search, hiring.
+- [NotFair](https://notfair.co/api/mcp/google_ads) — Google Ads diagnosis, optimization recommendations, and approved campaign changes.
 
 ## Design
 
