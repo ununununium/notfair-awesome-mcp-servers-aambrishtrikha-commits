@@ -66,8 +66,9 @@
 ## CRM & Sales
 
 - [Clay](https://api.clay.com/v3/mcp) — Data enrichment, lead scoring, outbound automation.
-- [Klaviyo](https://mcp.klaviyo.com/mcp) — Email marketing, segmentation, campaign management.
 - [Indeed](https://mcp.indeed.com/claude/mcp) — Job listings, candidate search, hiring.
+- [Klaviyo](https://mcp.klaviyo.com/mcp) — Email marketing, segmentation, campaign management.
+- [NotFair](https://github.com/nowork-studio/NotFair) — Open-source Claude Code agent skills for SEO and paid ads, connecting via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
 
 ## Design
 
